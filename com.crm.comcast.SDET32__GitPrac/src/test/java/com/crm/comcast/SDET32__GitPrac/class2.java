@@ -7,6 +7,7 @@ public class class2 {
 	@Test
 	public void test3() {
 		System.out.println("chamge in class2");
+		System.out.println("new change in built");
 	}
 	
 	

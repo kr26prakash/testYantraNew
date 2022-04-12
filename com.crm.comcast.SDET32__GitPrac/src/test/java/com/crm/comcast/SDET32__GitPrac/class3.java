@@ -8,5 +8,6 @@ public class class3 {
 	
 	public void test77() {
 		System.out.println("Creating new class");
+		System.out.println("kjbfgladkj");
 	}
 }
