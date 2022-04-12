@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class classA {
 	@Test
 	public void prac() {
-		System.out.println("pushed to git");
+		System.out.println(" First pushed to git");
 	}
 
 }
