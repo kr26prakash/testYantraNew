@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-12T12:31:50 IST" name="Default suite" finished-at="2022-04-12T12:31:50 IST" duration-ms="92">
+    <groups>
+    </groups>
+    <test started-at="2022-04-12T12:31:50 IST" name="Default test" finished-at="2022-04-12T12:31:50 IST" duration-ms="92">
+      <class name="com.crm.comcast.SDET32__GitPrac.classA">
+        <test-method signature="prac()[pri:0, instance:com.crm.comcast.SDET32__GitPrac.classA@27ff5d15]" started-at="2022-04-12T12:31:50 IST" name="prac" finished-at="2022-04-12T12:31:50 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prac -->
+      </class> <!-- com.crm.comcast.SDET32__GitPrac.classA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
