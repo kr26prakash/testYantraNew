@@ -8,6 +8,7 @@ public class classA {
 		System.out.println(" First pushed to git");
 		System.out.println("hgfcfhc");
 		System.out.println("change via ecllipse");
+		System.out.println("change via ecllipse2");
 	}
 
 }
