@@ -9,6 +9,7 @@ public class classA {
 		System.out.println("hgfcfhc");
 		System.out.println("change via ecllipse");
 		System.out.println("change via ecllipse2");
+		System.out.println("change via github");
 	}
 
 }
