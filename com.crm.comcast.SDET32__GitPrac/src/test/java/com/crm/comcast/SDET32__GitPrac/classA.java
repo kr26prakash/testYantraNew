@@ -1,0 +1,11 @@
+package com.crm.comcast.SDET32__GitPrac;
+
+import org.testng.annotations.Test;
+
+public class classA {
+	@Test
+	public void prac() {
+		System.out.println("pushed to git");
+	}
+
+}
